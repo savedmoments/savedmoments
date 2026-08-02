@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://savedmoments.github.io/savedmoments/sitemap.xml
