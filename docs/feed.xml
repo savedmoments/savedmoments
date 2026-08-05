@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 05 Aug 2026 19:02:42 +0800</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 22:18:12 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>特朗普所乘直升机遭遇飞行安全事件</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-05-2218.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-05-2218.html</guid>
+    <pubDate>Wed, 05 Aug 2026 22:18:11 +0800</pubDate>
+    <author>半晌</author>
+    <description>特朗普所乘直升机突发飞行安全事件，FAA已介入。总统专机系统的安全冗余为何会在一次看似常规的飞行中暴露？本文拆解事件背后的技术追问与信息迷雾。</description>
+  </item>
   <item>
     <title>长鑫拒绝苹果压价</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-05-1902.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Sun, 02 Aug 2026 21:21:29 +0800</pubDate>
     <author>半晌</author>
     <description>著名登山家普尔贾布洛德峰遇难，曾登56座8000米山峰、28次无氧。特种兵出身的他倒在雪崩之下，43岁。夏尔巴向导的风险，为何总被账单掩盖？</description>
-  </item>
-  <item>
-    <title>著名登山家遇难 曾登56座8000米山峰</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-02-2116.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-02-2116.html</guid>
-    <pubDate>Sun, 02 Aug 2026 21:16:28 +0800</pubDate>
-    <author>半晌</author>
-    <description>著名登山家尼尔马尔·普尔贾在布洛德峰遇难的消息，是2026年7月30日确认的。他曾登顶56座8000米山峰，其中28次无氧。消息传出后的头两天，讨论大多聚集在两个词上：雪崩、意外。登山圈里有人翻出一份不完全统计：过去十年，8000米级…</description>
   </item>
 </channel>
 </rss>
