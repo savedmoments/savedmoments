@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 06 Aug 2026 19:02:46 +0800</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 19:07:43 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>台风白海豚可能在浙闽沿海登陆</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-06-1907.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-06-1907.html</guid>
+    <pubDate>Thu, 06 Aug 2026 19:07:42 +0800</pubDate>
+    <author>半晌</author>
+    <description>台风“白海豚”逼近浙闽沿海，卫星与AI预报为何仍难锁定登陆点？一场台风预警背后，藏着人类与不确定性共处的百年博弈。</description>
+  </item>
   <item>
     <title>号召领导带头休假 是大家不想休吗</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-06-1902.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 03 Aug 2026 13:12:54 +0800</pubDate>
     <author>半晌</author>
     <description>别再把冰箱当保险箱了，4℃ 只是减速不是刹车。李斯特菌能在冷藏层存活，隔夜菜和冰西瓜的菌落差距有多大？数给你看。</description>
-  </item>
-  <item>
-    <title>奥迪史上最大SUV官宣</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-03-1301.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-03-1301.html</guid>
-    <pubDate>Mon, 03 Aug 2026 13:01:39 +0800</pubDate>
-    <author>半晌</author>
-    <description>奥迪史上最大SUV官宣，燃油时代的“最后辉煌”还是电动化晚到？Q9带着2210mm车宽、111万欧元门槛入场，传统豪华的“大”还能撑多久。</description>
   </item>
 </channel>
 </rss>
