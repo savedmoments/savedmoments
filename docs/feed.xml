@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 06 Aug 2026 19:07:43 +0800</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 22:03:00 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>宇树科技 打新</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-06-2202.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-06-2202.html</guid>
+    <pubDate>Thu, 06 Aug 2026 22:02:58 +0800</pubDate>
+    <author>半晌</author>
+    <description>宇树科技150.8元发行价、219倍市盈率，打新排队中签难，这轮人形机器人行情为什么让人又信又怕？看看数字之外的真实逻辑。</description>
+  </item>
   <item>
     <title>台风白海豚可能在浙闽沿海登陆</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-06-1907.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 03 Aug 2026 19:01:25 +0800</pubDate>
     <author>半晌</author>
     <description>理发店洗发蓬松的秘密不是洗发水，而是清洁重心在头皮而非发丝。多数人洗头只洗头发，根源油脂未除，蓬松自然撑不过一天。普通人如何复制这套流程？看完全文再说。</description>
-  </item>
-  <item>
-    <title>别再把冰箱当保险箱了</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-03-1312.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-03-1312.html</guid>
-    <pubDate>Mon, 03 Aug 2026 13:12:54 +0800</pubDate>
-    <author>半晌</author>
-    <description>别再把冰箱当保险箱了，4℃ 只是减速不是刹车。李斯特菌能在冷藏层存活，隔夜菜和冰西瓜的菌落差距有多大？数给你看。</description>
   </item>
 </channel>
 </rss>
