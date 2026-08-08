@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sat, 08 Aug 2026 12:48:05 +0800</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 12:59:46 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>幼师两年减少41万人</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1259.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-08-1259.html</guid>
+    <pubDate>Sat, 08 Aug 2026 12:59:45 +0800</pubDate>
+    <author>半晌</author>
+    <description>幼师两年减少41万人，学前教育收缩只是人口震荡的前夜。小学、中学、大学将依次承压。2027年入园人数还将再降一成，下一波冲击何时上岸？</description>
+  </item>
   <item>
     <title>这种水别再喝了 已被列为2A类致癌物</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1248.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Wed, 05 Aug 2026 19:02:41 +0800</pubDate>
     <author>半晌</author>
     <description>长鑫拒绝苹果压价，一纸报价单掀了半导体牌桌。当国产存储敢对苹果说不，谈的早已不是几分钱成本——供应商的权力天平，正在悄悄改写。</description>
-  </item>
-  <item>
-    <title>员工用代码17小时删光公司89TB数据</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-05-1317.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-05-1317.html</guid>
-    <pubDate>Wed, 05 Aug 2026 13:17:47 +0800</pubDate>
-    <author>半晌</author>
-    <description>90后工程师为腾出私人空间，用代码17小时删光89TB公司数据，获刑五年十个月。一条命令的代价，谁在为此买单？</description>
   </item>
 </channel>
 </rss>
