@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sat, 08 Aug 2026 12:22:18 +0800</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 12:48:05 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>这种水别再喝了 已被列为2A类致癌物</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1248.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-08-1248.html</guid>
+    <pubDate>Sat, 08 Aug 2026 12:48:04 +0800</pubDate>
+    <author>半晌</author>
+    <description>65℃热饮被列为2A类致癌物，刚沏的茶就超标。食管痛觉迟钝，烫伤了几十年你才察觉。这杯水，还喝吗？</description>
+  </item>
   <item>
     <title>白海豚或携极端暴雨重创东部多省市</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1222.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Wed, 05 Aug 2026 13:17:47 +0800</pubDate>
     <author>半晌</author>
     <description>90后工程师为腾出私人空间，用代码17小时删光89TB公司数据，获刑五年十个月。一条命令的代价，谁在为此买单？</description>
-  </item>
-  <item>
-    <title>《八仙！》进中国影史动画片票房前十</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-05-1303.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-05-1303.html</guid>
-    <pubDate>Wed, 05 Aug 2026 13:03:23 +0800</pubDate>
-    <author>半晌</author>
-    <description>《八仙！》进中国影史动画片票房前十 — 每日深度观察</description>
   </item>
 </channel>
 </rss>
