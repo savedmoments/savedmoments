@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sat, 08 Aug 2026 13:01:05 +0800</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:32:42 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>“不怕六爷挂得多 就怕六爷挂一颗”</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1932.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-08-1932.html</guid>
+    <pubDate>Sat, 08 Aug 2026 19:32:41 +0800</pubDate>
+    <author>半晌</author>
+    <description>不怕六爷挂得多就怕挂一颗，惊雷-1亮相阅兵后，轰-6N开始改变战略规则。当挂弹数量不再是威慑核心，一枚空基核导弹如何改写三千公里内的游戏？50字</description>
+  </item>
   <item>
     <title>今年第二强台风将带来多大影响</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1301.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Thu, 06 Aug 2026 08:01:48 +0800</pubDate>
     <author>半晌</author>
     <description>领导干部带头休假新政引热议，河南8月5日明确“一把手”第一责任人。机关真休了，企业假呢？七省份数据之外，到底谁在“不敢休”？</description>
-  </item>
-  <item>
-    <title>特朗普所乘直升机遭遇飞行安全事件</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-05-2218.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-05-2218.html</guid>
-    <pubDate>Wed, 05 Aug 2026 22:18:11 +0800</pubDate>
-    <author>半晌</author>
-    <description>特朗普所乘直升机突发飞行安全事件，FAA已介入。总统专机系统的安全冗余为何会在一次看似常规的飞行中暴露？本文拆解事件背后的技术追问与信息迷雾。</description>
   </item>
 </channel>
 </rss>
