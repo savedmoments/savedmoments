@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 10 Aug 2026 08:06:22 +0800</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 13:01:50 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>“还不如不放假”</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-10-1301.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-10-1301.html</guid>
+    <pubDate>Mon, 10 Aug 2026 13:01:49 +0800</pubDate>
+    <author>半晌</author>
+    <description>“预制娃”暑假提前学完下学期课程，孩子喊出“还不如不放假”。补习从机构搬进家庭，这届家长的焦虑为何反而更重了？一组数字揭开真相。</description>
+  </item>
   <item>
     <title>存款市场罕见两极分化</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-10-0806.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Fri, 07 Aug 2026 08:01:31 +0800</pubDate>
     <author>半晌</author>
     <description>6月16日，天津南开区某小区，21楼高空抛物嫌疑人被拘留的消息上了本地新闻。李某从21层扔下三个花盆，陶土碎片砸在单元门口的硬地上，碎得很彻底。监控画面显示，花盆落地后，才有人从楼里走出来。晚几秒，新闻标题就不是“行拘五日”，而是“过…</description>
-  </item>
-  <item>
-    <title>“China Cool”成海外热词</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-06-2219.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-06-2219.html</guid>
-    <pubDate>Thu, 06 Aug 2026 22:19:24 +0800</pubDate>
-    <author>半晌</author>
-    <description>“China Cool”风靡海外：这个夏天，外国游客为何扎堆来华避暑？240小时免签、高铁与扫码只是入场券，真正的“酷”藏在哪？</description>
   </item>
 </channel>
 </rss>
