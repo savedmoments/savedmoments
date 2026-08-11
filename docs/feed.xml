@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 11 Aug 2026 22:02:35 +0800</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 22:16:49 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>文献纪录片《江泽民》播出</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-11-2216.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-11-2216.html</guid>
+    <pubDate>Tue, 11 Aug 2026 22:16:48 +0800</pubDate>
+    <author>半晌</author>
+    <description>2026年8月11日晚八点，央视综合频道的节目单上，出现了一部十二集文献纪录片《江泽民》。从任何角度看，这都不是一个“常规”的电视节目：它由中共中央宣传部、中共中央党史和文献研究院、国家广播电视总局、中央广播电视总台四家机构联合摄制，…</description>
+  </item>
   <item>
     <title>“拼豆”之后 “拼布”火了</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-11-2202.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Sat, 08 Aug 2026 12:48:04 +0800</pubDate>
     <author>半晌</author>
     <description>65℃热饮被列为2A类致癌物，刚沏的茶就超标。食管痛觉迟钝，烫伤了几十年你才察觉。这杯水，还喝吗？</description>
-  </item>
-  <item>
-    <title>白海豚或携极端暴雨重创东部多省市</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-1222.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-08-1222.html</guid>
-    <pubDate>Sat, 08 Aug 2026 12:22:17 +0800</pubDate>
-    <author>半晌</author>
-    <description>白海豚或携极端暴雨重创东部多省市，预报路径清晰，城市旧债未偿。预警抵达手机，地下管网接得住吗？会改写多少人的夏天。</description>
   </item>
 </channel>
 </rss>
