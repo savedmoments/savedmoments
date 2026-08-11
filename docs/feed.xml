@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Tue, 11 Aug 2026 13:01:59 +0800</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 19:03:19 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>租金从800元降到450元房东决定不租了</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-11-1903.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-11-1903.html</guid>
+    <pubDate>Tue, 11 Aug 2026 19:03:17 +0800</pubDate>
+    <author>半晌</author>
+    <description>三线房东把租金从800元降到450元仍决定不租：“自己快成24小时客服了”。当管理成本超过租金收入，租赁市场靠什么维持运转？[59字]</description>
+  </item>
   <item>
     <title>从一笔账单看60万亿消费KPI的底气</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-11-1301.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Sat, 08 Aug 2026 08:04:23 +0800</pubDate>
     <author>半晌</author>
     <description>未来五年中国民航重磅规划出炉，文件通报里少见地用了“关键时期”“全面发力”这类字眼。这份未来五年中国民航重磅规划传到陈路手上时，他在华东某机场扩建指挥部已经待了四年——翻完正文，他只说了一句话：“机场要降温了。”</description>
-  </item>
-  <item>
-    <title>台风白海豚已进入24小时警戒线</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-08-0800.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-08-0800.html</guid>
-    <pubDate>Sat, 08 Aug 2026 08:00:54 +0800</pubDate>
-    <author>半晌</author>
-    <description>台风白海豚进入24小时警戒线，17级强风压境。预警系统升级背后，城市应急链条能否扛住第一场正面考验？26年气象数据给出新答案。</description>
   </item>
 </channel>
 </rss>
