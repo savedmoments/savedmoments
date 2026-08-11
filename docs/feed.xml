@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 10 Aug 2026 22:18:59 +0800</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 08:06:32 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>武契奇列数据：德国已经落后于中国</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-11-0806.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-11-0806.html</guid>
+    <pubDate>Tue, 11 Aug 2026 08:06:31 +0800</pubDate>
+    <author>半晌</author>
+    <description>武契奇列数据称德国已经落后于中国：0.8%对5%，人口与产业双重滑坡。德国这二十年的领先，还剩几年安全期？</description>
+  </item>
   <item>
     <title>农业“变酷”只是第一步</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-10-2218.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Fri, 07 Aug 2026 22:20:09 +0800</pubDate>
     <author>半晌</author>
     <description>齐豫毛阿敏《歌手》总决赛合唱《相思》，观众直呼“如听仙乐耳暂明”。这到底是真仙乐，还是修音时代里的稀缺现场？拆一段信号告诉你。</description>
-  </item>
-  <item>
-    <title>“今天得有40℃了吧 为啥还不预警”</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-07-2203.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-07-2203.html</guid>
-    <pubDate>Fri, 07 Aug 2026 22:03:16 +0800</pubDate>
-    <author>半晌</author>
-    <description>今天得有40℃了吧，为啥还不预警？气象专家给出1至7℃的体感差答案，但预警体系真正守护的对象，可能从来不是你的皮肤。</description>
   </item>
 </channel>
 </rss>
