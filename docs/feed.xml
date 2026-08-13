@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Wed, 12 Aug 2026 22:18:08 +0800</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 08:06:47 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>浙江一公司收到美国2.62亿元关税退税</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-0806.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-13-0806.html</guid>
+    <pubDate>Thu, 13 Aug 2026 08:06:45 +0800</pubDate>
+    <author>半晌</author>
+    <description>浙江一家企业收到美国2.62亿元关税退税，悄然到账，看似利好，却藏着一个问题：美国海关为何突然往回吐钱？这到底算意外之喜，还是本该如此？</description>
+  </item>
   <item>
     <title>新闻联播播报：朱镕基同志逝世</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-12-2218.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Sun, 09 Aug 2026 13:01:45 +0800</pubDate>
     <author>半晌</author>
     <description>8月8日，又一份上半年国内手机销量榜TOP30被数码博主贴了出来。榜单一出，讨论度最高的不是榜首的iPhone 17，而是第四名的华为Mate 80——670万台的系列销量，让不少人感叹&quot;华为终于回来了&quot;。</description>
-  </item>
-  <item>
-    <title>购飞机票7分钟后退票被扣2022元</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-09-0806.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-09-0806.html</guid>
-    <pubDate>Sun, 09 Aug 2026 08:06:22 +0800</pubDate>
-    <author>半晌</author>
-    <description>2026年7月30日，杭州的张先生打开12306平台购飞机票，买了三张长龙航空从三亚飞杭州的机票。7分钟后，他发现航班时间选错了。按下退票键，页面跳出一个数字：2022元。一次购飞机票过程中没有任何提醒的条款，在7分钟后变成硬扣款。</description>
   </item>
 </channel>
 </rss>
