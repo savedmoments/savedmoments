@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 13 Aug 2026 19:05:31 +0800</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 22:18:51 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>舍不得买可直接休学退学？校方通报</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-2218.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-13-2218.html</guid>
+    <pubDate>Thu, 13 Aug 2026 22:18:50 +0800</pubDate>
+    <author>半晌</author>
+    <description>3月的一个下午，西南医科大学某班级群里弹出一段话。辅导员针对教材采购通知补充道：“舍不得买新教材可以直接休学退学。”截图在社交平台流动，一天之内发酵成全国性话题。校方随后通报：涉事辅导员言语失当，被批评教育并责令公开致歉，同时强调教材…</description>
+  </item>
   <item>
     <title>普京登岛 日本急了</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-1905.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 10 Aug 2026 08:06:20 +0800</pubDate>
     <author>半晌</author>
     <description>存款市场罕见两极分化：中小银行压长期利率，四大行重启5年期大额存单，县城网点却逆势加息。同一天，利率走向两个方向，储户该听谁的？</description>
-  </item>
-  <item>
-    <title>香港刷新1884年以来最高气温纪录</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-09-2201.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-09-2201.html</guid>
-    <pubDate>Sun, 09 Aug 2026 22:01:15 +0800</pubDate>
-    <author>半晌</author>
-    <description>香港刷新1884年以来最高气温纪录那天，我盯着天文台的实时数据页面看了很久。2023年10月9日15时30分，数字停在36.9度——这个读数超过了该机构自1884年设立观测站以来写下的每一个夏天。同一时刻，新界上水自动站录得39.8度…</description>
   </item>
 </channel>
 </rss>
