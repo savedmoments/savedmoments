@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 13 Aug 2026 08:06:47 +0800</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 13:03:00 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>新规来了：禁止在居民楼开油烟餐饮</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-1302.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-13-1302.html</guid>
+    <pubDate>Thu, 13 Aug 2026 13:02:58 +0800</pubDate>
+    <author>半晌</author>
+    <description>《生态环境法典》8月15日施行，居民楼餐饮油烟被叫停。1万至10万罚款只是起点，但谁在执行、谁在受益、谁被算法淘汰？答案藏在数据里。</description>
+  </item>
   <item>
     <title>浙江一公司收到美国2.62亿元关税退税</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-0806.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Sun, 09 Aug 2026 19:01:47 +0800</pubDate>
     <author>半晌</author>
     <description>台风“白海豚”逼近，浙江省委书记喊话“该停下的坚决停下来”。防灾逻辑背后，是一次关于“谁为停摆买单”的精准计算。</description>
-  </item>
-  <item>
-    <title>上半年国内手机销量榜</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-09-1301.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-09-1301.html</guid>
-    <pubDate>Sun, 09 Aug 2026 13:01:45 +0800</pubDate>
-    <author>半晌</author>
-    <description>8月8日，又一份上半年国内手机销量榜TOP30被数码博主贴了出来。榜单一出，讨论度最高的不是榜首的iPhone 17，而是第四名的华为Mate 80——670万台的系列销量，让不少人感叹&quot;华为终于回来了&quot;。</description>
   </item>
 </channel>
 </rss>
