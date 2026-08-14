@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Thu, 13 Aug 2026 22:18:51 +0800</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 10:03:31 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>中使馆重要提醒：中国公民尽快撤离</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-14-1003.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-14-1003.html</guid>
+    <pubDate>Fri, 14 Aug 2026 10:03:30 +0800</pubDate>
+    <author>半晌</author>
+    <description>中使馆重要提醒在刚中国公民尽快撤离。刚果金四省战火叠加埃博拉，信号与硝烟谁更快？数字时代的跨国撤离，信息差才是最高风险。</description>
+  </item>
   <item>
     <title>舍不得买可直接休学退学？校方通报</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-13-2218.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 10 Aug 2026 13:01:49 +0800</pubDate>
     <author>半晌</author>
     <description>“预制娃”暑假提前学完下学期课程，孩子喊出“还不如不放假”。补习从机构搬进家庭，这届家长的焦虑为何反而更重了？一组数字揭开真相。</description>
-  </item>
-  <item>
-    <title>存款市场罕见两极分化</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-10-0806.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-10-0806.html</guid>
-    <pubDate>Mon, 10 Aug 2026 08:06:20 +0800</pubDate>
-    <author>半晌</author>
-    <description>存款市场罕见两极分化：中小银行压长期利率，四大行重启5年期大额存单，县城网点却逆势加息。同一天，利率走向两个方向，储户该听谁的？</description>
   </item>
 </channel>
 </rss>
