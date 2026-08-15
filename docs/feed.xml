@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 14 Aug 2026 22:21:02 +0800</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 08:34:36 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>朋友圈永远不会有二次编辑功能</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-15-0834.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-15-0834.html</guid>
+    <pubDate>Sat, 15 Aug 2026 08:34:34 +0800</pubDate>
+    <author>半晌</author>
+    <description>朋友圈永远不会有二次编辑功能，8月14日微信官宣：防止内容运营只是表象，维护社交不可回溯才是本意，你信吗？</description>
+  </item>
   <item>
     <title>《我的前半生》 暑期唯一爆剧</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-14-2221.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 10 Aug 2026 22:18:58 +0800</pubDate>
     <author>半晌</author>
     <description>农业“变酷”只是第一步，无人机、AI、物联网确实让田里好看又高效，可返乡的年轻人还在犹豫，酷完了，谁接着种？</description>
-  </item>
-  <item>
-    <title>外交部：百余名菲律宾公民被依法处理</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-10-2203.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-10-2203.html</guid>
-    <pubDate>Mon, 10 Aug 2026 22:03:17 +0800</pubDate>
-    <author>半晌</author>
-    <description>百余名菲律宾公民因非法就业居留被处理，公开通报背后是移民数据库的自动筛查与执法标记。换个角度，这是两国公民的处境镜像。（54字）</description>
   </item>
 </channel>
 </rss>
