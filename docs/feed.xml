@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sun, 16 Aug 2026 19:10:57 +0800</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 19:20:57 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>9月起四川正式“依法带娃”</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-16-1920.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-16-1920.html</guid>
+    <pubDate>Sun, 16 Aug 2026 19:20:55 +0800</pubDate>
+    <author>半晌</author>
+    <description>9月1日，四川的“依法带娃”就要正式实施了。《四川省家庭教育促进条例》赶在开学前落地，30条内容，把家庭责任、政府推动、社会协同、学校指导全捆在一起。官方说法是：带娃不再只是家务事，谁也别当“甩手掌柜”。</description>
+  </item>
   <item>
     <title>沪上阿姨 涉不正当竞争</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-16-1910.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Thu, 13 Aug 2026 08:06:45 +0800</pubDate>
     <author>半晌</author>
     <description>浙江一家企业收到美国2.62亿元关税退税，悄然到账，看似利好，却藏着一个问题：美国海关为何突然往回吐钱？这到底算意外之喜，还是本该如此？</description>
-  </item>
-  <item>
-    <title>新闻联播播报：朱镕基同志逝世</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-12-2218.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-12-2218.html</guid>
-    <pubDate>Wed, 12 Aug 2026 22:18:07 +0800</pubDate>
-    <author>半晌</author>
-    <description>新闻联播播报朱镕基同志逝世当天，千万手机同时震动。他任内拆分的电信网正推着讣告涌向你——距离历史还剩一次下拉。</description>
   </item>
 </channel>
 </rss>
