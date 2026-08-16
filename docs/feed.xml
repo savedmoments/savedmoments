@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sun, 16 Aug 2026 18:27:14 +0800</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 18:51:23 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>手机壳 医疗垃圾</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-16-1851.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-16-1851.html</guid>
+    <pubDate>Sun, 16 Aug 2026 18:51:22 +0800</pubDate>
+    <author>半晌</author>
+    <description>手机壳与医疗垃圾的黑色链条藏在成本里。低于十块钱的壳，原料可能是输液管针筒。行业门槛低到离谱，没人管得了，你信吗？</description>
+  </item>
   <item>
     <title>旺旺 真听劝</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-16-1827.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Wed, 12 Aug 2026 22:02:47 +0800</pubDate>
     <author>半晌</author>
     <description>2026年8月12日11时06分，北京。朱镕基同志逝世的消息由新华社授权发出。讣告第一段是一段高度格式化的文字，使用了近三十年来每份同类文件都保持不变的句式——“中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民…</description>
-  </item>
-  <item>
-    <title>国务院原总理朱镕基逝世</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-12-1918.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-12-1918.html</guid>
-    <pubDate>Wed, 12 Aug 2026 19:18:24 +0800</pubDate>
-    <author>半晌</author>
-    <description>国务院原总理朱镕基于2026年8月12日逝世，享年98岁。四机构联署讣告的格式、时间与措辞，本身就是一种信息治理的样本。它如何被记录、转发与算法化？</description>
   </item>
 </channel>
 </rss>
