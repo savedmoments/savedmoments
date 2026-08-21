@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 21 Aug 2026 19:21:37 +0800</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 20:41:47 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>特斯拉召回超571万辆国产及进口电车</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-21-2041.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-21-2041.html</guid>
+    <pubDate>Fri, 21 Aug 2026 20:41:45 +0800</pubDate>
+    <author>半晌</author>
+    <description>2026年9月25日起，特斯拉召回超571万辆国产及进口Model 3、Model Y、Model S、Model X，备案编号S2026M0098V。如果只看数字，这大概是国内汽车召回史上单品牌最大的一次——571万辆，比多数品牌十…</description>
+  </item>
   <item>
     <title>经央行公告停止流通的人民币可以买卖</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-21-1921.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Tue, 18 Aug 2026 08:24:10 +0800</pubDate>
     <author>半晌</author>
     <description>法拉利首款电车破纪录拍出约2.7亿元。4000万美元，落槌价。法拉利首款电车，用&quot;史上成交价最高新车&quot;的身份完成了公开亮相。</description>
-  </item>
-  <item>
-    <title>9块9包邮的手机壳还敢买吗</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-17-2220.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-17-2220.html</guid>
-    <pubDate>Mon, 17 Aug 2026 22:20:48 +0800</pubDate>
-    <author>半晌</author>
-    <description>9块9包邮的手机壳还敢买吗？先说结论：敢不敢买是消费观问题，但值不值得买，是算术题。央视这次曝光的数据，把这道题变成了送分题——抽检合格率不足5%，有样品铅超标1550倍。注意，不是1.5倍，是1550倍。这个数字大到什么程度呢？你手…</description>
   </item>
 </channel>
 </rss>
