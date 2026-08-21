@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 21 Aug 2026 13:21:24 +0800</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 19:21:37 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>经央行公告停止流通的人民币可以买卖</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-21-1921.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-21-1921.html</guid>
+    <pubDate>Fri, 21 Aug 2026 19:21:35 +0800</pubDate>
+    <author>半晌</author>
+    <description>央行新规放开停止流通人民币买卖资格，但普通纪念币兑换前禁售。藏品与货币的暧昧边界再次收紧，收藏市场是重生还是速朽？</description>
+  </item>
   <item>
     <title>台风美莎克致广西两地159人遇难</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-21-1321.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Mon, 17 Aug 2026 22:20:48 +0800</pubDate>
     <author>半晌</author>
     <description>9块9包邮的手机壳还敢买吗？先说结论：敢不敢买是消费观问题，但值不值得买，是算术题。央视这次曝光的数据，把这道题变成了送分题——抽检合格率不足5%，有样品铅超标1550倍。注意，不是1.5倍，是1550倍。这个数字大到什么程度呢？你手…</description>
-  </item>
-  <item>
-    <title>BBA集体大降价：宝马5系跌至28万</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-17-1923.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-17-1923.html</guid>
-    <pubDate>Mon, 17 Aug 2026 19:23:11 +0800</pubDate>
-    <author>半晌</author>
-    <description>BBA集体大降价，宝马5系跌至28万，奥迪A6L不足26万。价格台阶塌了，豪华神话还剩几成？国产新能源正在偷偷改写标价规则。</description>
   </item>
 </channel>
 </rss>
