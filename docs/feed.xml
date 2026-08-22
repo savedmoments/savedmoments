@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Fri, 21 Aug 2026 22:23:20 +0800</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 16:27:55 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>泡泡玛特跌掉一个泡泡玛特</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-22-1627.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-22-1627.html</guid>
+    <pubDate>Sat, 22 Aug 2026 16:27:54 +0800</pubDate>
+    <author>半晌</author>
+    <description>泡泡玛特半年报营收净利双增，市值却从高点缩水超千亿。业绩越好，股价越跌，资本到底在怕什么？五成蒸发背后，藏着潮玩生意的另一个真相。</description>
+  </item>
   <item>
     <title>官方回应旅客买票占座放零食</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-21-2223.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Tue, 18 Aug 2026 19:21:41 +0800</pubDate>
     <author>半晌</author>
     <description>电视长辈模式困住3.23亿中国老人，罗永浩公开吐槽掀开伪适老遮羞布。官方概念对外，56%毛利对内，老人是流量而非用户。3.23亿谁买单？</description>
-  </item>
-  <item>
-    <title>重要规划发布！新风口要来了</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-18-1324.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-18-1324.html</guid>
-    <pubDate>Tue, 18 Aug 2026 13:24:23 +0800</pubDate>
-    <author>半晌</author>
-    <description>国家发改委、能源局发布的油气“十五五”规划文件摊在桌上。外行看到的是“4.4亿吨”“22万公里”这样的大数字，内行看到的是一件事：石油消费达峰的时间表定了，而氢能接棒的路径也画好了。 两件事放在同一份文件里，这本身就值一百个字。规划里…</description>
   </item>
 </channel>
 </rss>
