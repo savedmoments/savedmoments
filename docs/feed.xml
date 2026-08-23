@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Sun, 23 Aug 2026 19:21:05 +0800</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 22:20:36 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>中国汽车出口激增</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-23-2220.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-23-2220.html</guid>
+    <pubDate>Sun, 23 Aug 2026 22:20:35 +0800</pubDate>
+    <author>半晌</author>
+    <description>商船不够用了，这比卖了多少辆车更值得琢磨。</description>
+  </item>
   <item>
     <title>国铁：有特殊需求可多购车票</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-23-1921.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Wed, 19 Aug 2026 23:33:41 +0800</pubDate>
     <author>半晌</author>
     <description>985大学开在县城，这波争议是笔地方财政与高校的长期交易。毕业证一样，资源差远了。弯道超车还是考进大山？这买卖划算吗？</description>
-  </item>
-  <item>
-    <title>国产综艺为什么总是出现各种“学”</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-19-2328.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-19-2328.html</guid>
-    <pubDate>Wed, 19 Aug 2026 23:28:25 +0800</pubDate>
-    <author>半晌</author>
-    <description>&quot;琪学&quot;走红背后，是综艺&quot;学&quot;字辈的集体狂欢。从花学到坞学，观众追的不再是节目，是被剪刀手切碎的真人秀碎片。我们真的还需要另一种&quot;学&quot;吗？</description>
   </item>
 </channel>
 </rss>
