@@ -5,8 +5,16 @@
   <link>https://savedmoments.github.io/savedmoments/</link>
   <description>科技与社会交叉带的每日观察。</description>
   <language>zh-CN</language>
-  <lastBuildDate>Mon, 24 Aug 2026 08:32:11 +0800</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 13:21:28 +0800</lastBuildDate>
   <atom:link href="https://savedmoments.github.io/savedmoments/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>垫铜镜的“包装纸”竟然是国宝</title>
+    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-24-1321.html</link>
+    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-24-1321.html</guid>
+    <pubDate>Mon, 24 Aug 2026 13:21:27 +0800</pubDate>
+    <author>半晌</author>
+    <description>垫铜镜的“包装纸”竟是国宝，三张直径17.5厘米的东汉墨迹纸在墓中沉睡千年。求医家书墨迹尚存，与蔡伦纸的关联为何争议不止？</description>
+  </item>
   <item>
     <title>人民日报调查：面目全非的别墅小镇</title>
     <link>https://savedmoments.github.io/savedmoments/articles/2026-08-24-0832.html</link>
@@ -158,14 +166,6 @@
     <pubDate>Thu, 20 Aug 2026 00:03:03 +0800</pubDate>
     <author>半晌</author>
     <description>2026年上半年，5万元以下车型累计销量只有大概13万辆，同比掉了55%。这个数字背后，是整个5万元以下的燃油小车正在从新车市场上消失。不是被淘汰，是无人在意地消失。</description>
-  </item>
-  <item>
-    <title>“AI剧像喂猪一样 实在吃不下了”</title>
-    <link>https://savedmoments.github.io/savedmoments/articles/2026-08-19-2341.html</link>
-    <guid isPermaLink="true">https://savedmoments.github.io/savedmoments/articles/2026-08-19-2341.html</guid>
-    <pubDate>Wed, 19 Aug 2026 23:41:39 +0800</pubDate>
-    <author>半晌</author>
-    <description>第一次看完一整集AI剧，是在凌晨两点半。AI剧这东西，年初还像猎奇，年中就铺满了推荐页。那集剧的剧情是标准的“豪门弃女逆袭”，三分钟一个反转，女主的脸在每一帧都有微妙的不对劲——形容不上来，但总觉得哪里坏了的那种塑料感。播放量不低。我…</description>
   </item>
 </channel>
 </rss>
